@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Chess.com Powerhouse Engine Advisor (Roma10boss Edition)
-// @namespace    https://github.com/YOUR-USERNAME/chess-com-engine-advisor
+// @namespace    https://github.com/Roma10boss/chess-com-engine-advisor
+// @downloadURL  https://github.com/Roma10boss/chess-com-engine-advisor/raw/main/chess-com-powerhouse-engine-advisor.user.js
+// @updateURL    https://github.com/Roma10boss/chess-com-engine-advisor/raw/main/chess-com-powerhouse-engine-advisor.user.js
 // @version      1.3
 // @description  Show powerful combined engine analysis (Stockfish + Maia) on chess.com with improved UI and long game support
 // @author       ChessHelper
 // @match        https://www.chess.com/*
 // @grant        GM_xmlhttpRequest
 // @connect      lichess.org
-// @downloadURL  https://github.com/YOUR-USERNAME/chess-com-engine-advisor/raw/main/chess-com-powerhouse-engine-advisor.user.js
-// @updateURL    https://github.com/YOUR-USERNAME/chess-com-engine-advisor/raw/main/chess-com-powerhouse-engine-advisor.user.js
 // ==/UserScript==
 
 /* 
