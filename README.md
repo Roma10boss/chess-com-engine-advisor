@@ -1,6 +1,5 @@
 # chess-com-engine-advisor
-chess tutor
-
+chess tuto
 
 # Chess.com Powerhouse Engine Advisor (Roma10boss Edition)
 
